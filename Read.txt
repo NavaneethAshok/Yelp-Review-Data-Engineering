@@ -1,0 +1,2 @@
+While uploading I have removed the AWS KEY AND SECREAT KEY.
+Don't Share the Credentials
